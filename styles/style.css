@@ -1,0 +1,91 @@
+#header{
+    list-style-type: none; /* removes bullets  */
+    margin: 0;      /* these remove browser default settings*/
+    padding: 0;
+    position: fixed;    /* adjusts position of header navbar*/
+    top: 20px;
+    width: 100%;
+}
+
+#footer{
+    list-style-type: none; /* removes bullets  */
+    margin: 0;      /* these remove browser default settings*/
+    padding: 0;
+    position: fixed;    /* adjusts position of footer navbar*/
+    bottom: 0px;
+    width: 100%;
+    background-color: #dddddd;
+    height: 5%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+form{
+    text-align: center;
+}
+input{
+    width: 35%;
+    border-radius: 5px;
+    margin-top:-10px;
+    height: 40px;
+}
+button{
+    height: 30px;
+}
+#search{
+    margin-right: 3%;
+}
+
+li{
+    display: inline;
+}
+#about{
+    margin-left:10px;
+}
+#store{
+    margin-left: 20px;;
+}
+#gmail{
+    float:right;
+    margin-right: 30px;
+}
+#images{
+    float:right;
+    margin-right: 100px;
+}
+#signin{
+    float: right;
+    margin-right: 25px;
+}
+#advertising{
+    margin-left: 15px;
+    line-height: 30px;
+}
+#business{
+    margin-left: 20px;
+    line-height: 30px;
+}
+#howsearchworks{
+    margin-left: 20px;
+    line-height: 30px;
+}
+#privacy{
+    float:right;
+    margin-right: 20px;
+    line-height: 30px;
+}
+#terms{
+    float:right;
+    margin-right: 20px;
+    line-height: 30px;
+}
+#settings   {
+    float:right;
+    margin-right: 20px;
+    line-height: 30px;
+}
+
